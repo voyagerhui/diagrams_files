@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T12:10:25.468Z" agent="5.0 (Windows)" etag="EHWHkPKyIfpFpgvH2evO" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T12:13:45.770Z" agent="5.0 (Windows)" etag="L98DNpa2C9z-3-3tEM-k" version="13.9.7" type="github">
   <diagram id="_rWFawhrcu3u0DFE2K7U" name="Page-1">
     <mxGraphModel dx="1021" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="M8iE7umPJcfiMCRqgvI0-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kitchen-appliances-computers-and-electronics/32/Appliances-19-128.png;shadow=0;strokeColor=#999999;fillColor=#999999;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="425.28000000000003" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M8iE7umPJcfiMCRqgvI0-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;" parent="1" source="M8iE7umPJcfiMCRqgvI0-48" target="M8iE7umPJcfiMCRqgvI0-54" edge="1">
+        <mxCell id="M8iE7umPJcfiMCRqgvI0-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;" parent="1" source="ec5GVnII-nx4smP0i5xM-7" target="M8iE7umPJcfiMCRqgvI0-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427" y="170" as="sourcePoint" />
             <mxPoint x="477" y="120" as="targetPoint" />
@@ -203,6 +203,15 @@
         </mxCell>
         <mxCell id="ec5GVnII-nx4smP0i5xM-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/web-basic-2/512/719_bluetooth__network__communication__security_-128.png" vertex="1" parent="1">
           <mxGeometry x="470" y="644" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ec5GVnII-nx4smP0i5xM-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Remote-128.png" vertex="1" parent="1">
+          <mxGeometry x="447.28" y="189" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ec5GVnII-nx4smP0i5xM-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=12;" edge="1" parent="1" source="M8iE7umPJcfiMCRqgvI0-48" target="ec5GVnII-nx4smP0i5xM-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.28" y="217.5" as="sourcePoint" />
+            <mxPoint x="465.28" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
